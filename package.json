@@ -1,0 +1,38 @@
+{
+  "name": "aasfasf",
+  "version": "0.0.0",
+  "description": "CRAM is an acronym for create react app moth",
+  "main": "index.js",
+  "bin": {
+    "cram": "./index.js"
+  },
+  "author": {
+    "name": "Bismark Henao",
+    "email": "bismarkhenao7@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "commander": "^2.16.0",
+    "configstore": "^3.1.2",
+    "figlet": "^1.2.0",
+    "inquirer": "^6.0.0",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0",
+    "touch": "^3.1.0",
+    "validate-npm-package-name": "^3.0.0"
+  },
+  "keywords": [
+    "cli",
+    "react",
+    "boilerplate"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "eslint": "^5.1.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
